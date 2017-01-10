@@ -39,11 +39,11 @@
 ## 写文章
 在`markdown`开头加上：
 
----
-layout: posttitle: "Welcome to Jekyll!"
-date: 2014-01-27 21:57:11
-categories: Blog
----
+    ---
+    layout: posttitle: "Welcome to Jekyll!"
+    date: 2014-01-27 21:57:11
+    categories: Blog
+    ---
 文件命名格式: 时间加标题比如：`2015-08-15-HowToBuildBlog.md`
 ok，你可以写文章了，放入`_post`文件夹即可。
 
