@@ -70,8 +70,12 @@ ok，你可以写文章了，放入`_post`文件夹即可。
 
 
 > 参考与资料
+
 > [`jekyll`官方文档](http://jekyllrb.com/docs/home/)
+
 > [`Jekyll`主题](http://jekyllthemes.org/)
+
 > [`Jekyll`主题`github`](https://github.com/mattvh/jekyllthemes)
+
 > [`Bootstrap`前端`html`及`css`学习网站](http://www.bootcss.com/)
 
