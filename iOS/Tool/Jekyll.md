@@ -4,28 +4,28 @@
 
 ## `Jekyll`目录
 
-.
-├── _config.yml
-├── _data
-|   └── members.yml
-├── _drafts
-    ├── begin-with-the-crazy-ideas.md
-    └── on-simplicity-in-technology.md
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-    ├── default.html
-    └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
-|   └── 2009-04-26-barcamp-boston-4-roundup.md
-├── _sass
-    ├── _base.scss
-|   └── _layout.scss
-├── _site
-├── .jekyll-metadata
-└── index.html # can also be an 'index.md' with valid YAML Frontmatter
+    .
+    ├── _config.yml
+    ├── _data
+    |   └── members.yml
+    ├── _drafts
+        ├── begin-with-the-crazy-ideas.md
+        └── on-simplicity-in-technology.md
+    ├── _includes
+    |   ├── footer.html
+    |   └── header.html
+    ├── _layouts
+        ├── default.html
+        └── post.html
+    ├── _posts
+    |   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
+    |   └── 2009-04-26-barcamp-boston-4-roundup.md
+    ├── _sass
+        ├── _base.scss
+    |   └── _layout.scss
+    ├── _site
+    ├── .jekyll-metadata
+    └── index.html # can also be an 'index.md' with valid YAML Frontmatter
 
 - `_config.yml`：配置文件，你可以在里面配置博客用到的常量，如博客名，邮件等。
 - `_includes`：文章各个部分的`html`文件，可以在布局中包含这些文件。
