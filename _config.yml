@@ -27,7 +27,8 @@ twitter_username:
 github_username:  WenMingYan
 
 # Build settings
-theme: jekyll-theme-clean-blog
+# theme: startbootstrap-clean-blog-jekyll
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 markdown: kramdown
 plugins:
   - jekyll-feed
