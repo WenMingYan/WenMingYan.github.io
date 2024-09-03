@@ -3,7 +3,7 @@ email:              wenmingyan_work@126.com
 description:        A Blog put my own code world
 author:             WenMingYan
 baseurl:            "/index"
-url:                ""
+url:                "https://wenmingyan.github.io/"
 
 # Social Profiles
 twitter_username:   
